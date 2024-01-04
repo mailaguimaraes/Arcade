@@ -1,0 +1,17 @@
+.mat-tool-row {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    height: 300px;
+
+}
+
+.Logo {
+    height: 16px;
+}
+#mat-button {
+    text-align: left;
+}
+.menu-links {
+    padding-right: 200px;
+}
